@@ -49,6 +49,23 @@ Read `~/idea-finder/discovery.md`.
 
 ## COMMANDS
 
+Recognize an explicit command or its natural-language equivalent:
+
+| Intent | Command |
+|---|---|
+| Go deeper on a role | `/dig [role]` |
+| Rebuild or refresh the self-map | `/render` |
+| Test or validate an idea | `/validate [problem]` |
+| Prepare for a customer interview | `/interview [contact]` |
+| Practice with a skeptical customer | `/sim [problem]` |
+| Research a role's market or competitors | `/market [role]` |
+| Describe the target customer | `/persona [role]` |
+| Rank opportunities or choose a focus | `/score` |
+| Compare two problems | `/compare [A] vs [B]` |
+| Assess founder-market fit | `/why-me [problem]` |
+| Write a shareable founder brief | `/brief` |
+| Identify the highest-value next step | `/next` |
+
 ### /dig [role]
 
 Zoom in on one role. Ask 8 deeper questions conversationally, 2–3 at a time
